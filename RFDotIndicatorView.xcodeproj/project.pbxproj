@@ -15,6 +15,15 @@
 		8EEFB5691CAA99C7002E35A8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8EEFB5671CAA99C7002E35A8 /* LaunchScreen.storyboard */; };
 		8EEFB5741CAA99C8002E35A8 /* RFDotIndicatorViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EEFB5731CAA99C8002E35A8 /* RFDotIndicatorViewTests.m */; };
 		8EEFB57F1CAA99C8002E35A8 /* RFDotIndicatorViewUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EEFB57E1CAA99C8002E35A8 /* RFDotIndicatorViewUITests.m */; };
+		8EEFB59D1CAA99DB002E35A8 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EEFB58E1CAA99DB002E35A8 /* AppDelegate.m */; };
+		8EEFB59E1CAA99DB002E35A8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8EEFB58F1CAA99DB002E35A8 /* Assets.xcassets */; };
+		8EEFB59F1CAA99DB002E35A8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8EEFB5901CAA99DB002E35A8 /* LaunchScreen.storyboard */; };
+		8EEFB5A01CAA99DB002E35A8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8EEFB5921CAA99DB002E35A8 /* Main.storyboard */; };
+		8EEFB5A11CAA99DB002E35A8 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EEFB5941CAA99DB002E35A8 /* Info.plist */; };
+		8EEFB5A21CAA99DB002E35A8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EEFB5951CAA99DB002E35A8 /* main.m */; };
+		8EEFB5A31CAA99DB002E35A8 /* RFDotIndicatorView+MJ.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EEFB5981CAA99DB002E35A8 /* RFDotIndicatorView+MJ.m */; };
+		8EEFB5A41CAA99DB002E35A8 /* RFDotIndicatorView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EEFB59A1CAA99DB002E35A8 /* RFDotIndicatorView.m */; };
+		8EEFB5A51CAA99DB002E35A8 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EEFB59C1CAA99DB002E35A8 /* ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +60,19 @@
 		8EEFB57A1CAA99C8002E35A8 /* RFDotIndicatorViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RFDotIndicatorViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8EEFB57E1CAA99C8002E35A8 /* RFDotIndicatorViewUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RFDotIndicatorViewUITests.m; sourceTree = "<group>"; };
 		8EEFB5801CAA99C8002E35A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8EEFB58D1CAA99DB002E35A8 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		8EEFB58E1CAA99DB002E35A8 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		8EEFB58F1CAA99DB002E35A8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		8EEFB5911CAA99DB002E35A8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		8EEFB5931CAA99DB002E35A8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		8EEFB5941CAA99DB002E35A8 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8EEFB5951CAA99DB002E35A8 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8EEFB5971CAA99DB002E35A8 /* RFDotIndicatorView+MJ.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "RFDotIndicatorView+MJ.h"; sourceTree = "<group>"; };
+		8EEFB5981CAA99DB002E35A8 /* RFDotIndicatorView+MJ.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "RFDotIndicatorView+MJ.m"; sourceTree = "<group>"; };
+		8EEFB5991CAA99DB002E35A8 /* RFDotIndicatorView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RFDotIndicatorView.h; sourceTree = "<group>"; };
+		8EEFB59A1CAA99DB002E35A8 /* RFDotIndicatorView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RFDotIndicatorView.m; sourceTree = "<group>"; };
+		8EEFB59B1CAA99DB002E35A8 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		8EEFB59C1CAA99DB002E35A8 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +123,7 @@
 		8EEFB5581CAA99C7002E35A8 /* RFDotIndicatorView */ = {
 			isa = PBXGroup;
 			children = (
+				8EEFB58C1CAA99DB002E35A8 /* RFDotIndicatorView */,
 				8EEFB55C1CAA99C7002E35A8 /* AppDelegate.h */,
 				8EEFB55D1CAA99C7002E35A8 /* AppDelegate.m */,
 				8EEFB55F1CAA99C7002E35A8 /* ViewController.h */,
@@ -138,6 +161,34 @@
 				8EEFB5801CAA99C8002E35A8 /* Info.plist */,
 			);
 			path = RFDotIndicatorViewUITests;
+			sourceTree = "<group>";
+		};
+		8EEFB58C1CAA99DB002E35A8 /* RFDotIndicatorView */ = {
+			isa = PBXGroup;
+			children = (
+				8EEFB58D1CAA99DB002E35A8 /* AppDelegate.h */,
+				8EEFB58E1CAA99DB002E35A8 /* AppDelegate.m */,
+				8EEFB58F1CAA99DB002E35A8 /* Assets.xcassets */,
+				8EEFB5901CAA99DB002E35A8 /* LaunchScreen.storyboard */,
+				8EEFB5921CAA99DB002E35A8 /* Main.storyboard */,
+				8EEFB5941CAA99DB002E35A8 /* Info.plist */,
+				8EEFB5951CAA99DB002E35A8 /* main.m */,
+				8EEFB5961CAA99DB002E35A8 /* RFDotIndicatorView */,
+				8EEFB59B1CAA99DB002E35A8 /* ViewController.h */,
+				8EEFB59C1CAA99DB002E35A8 /* ViewController.m */,
+			);
+			path = RFDotIndicatorView;
+			sourceTree = "<group>";
+		};
+		8EEFB5961CAA99DB002E35A8 /* RFDotIndicatorView */ = {
+			isa = PBXGroup;
+			children = (
+				8EEFB5971CAA99DB002E35A8 /* RFDotIndicatorView+MJ.h */,
+				8EEFB5981CAA99DB002E35A8 /* RFDotIndicatorView+MJ.m */,
+				8EEFB5991CAA99DB002E35A8 /* RFDotIndicatorView.h */,
+				8EEFB59A1CAA99DB002E35A8 /* RFDotIndicatorView.m */,
+			);
+			path = RFDotIndicatorView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -245,7 +296,11 @@
 			files = (
 				8EEFB5691CAA99C7002E35A8 /* LaunchScreen.storyboard in Resources */,
 				8EEFB5661CAA99C7002E35A8 /* Assets.xcassets in Resources */,
+				8EEFB59E1CAA99DB002E35A8 /* Assets.xcassets in Resources */,
+				8EEFB5A01CAA99DB002E35A8 /* Main.storyboard in Resources */,
+				8EEFB59F1CAA99DB002E35A8 /* LaunchScreen.storyboard in Resources */,
 				8EEFB5641CAA99C7002E35A8 /* Main.storyboard in Resources */,
+				8EEFB5A11CAA99DB002E35A8 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,9 +325,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8EEFB5A21CAA99DB002E35A8 /* main.m in Sources */,
+				8EEFB59D1CAA99DB002E35A8 /* AppDelegate.m in Sources */,
+				8EEFB5A51CAA99DB002E35A8 /* ViewController.m in Sources */,
 				8EEFB5611CAA99C7002E35A8 /* ViewController.m in Sources */,
 				8EEFB55E1CAA99C7002E35A8 /* AppDelegate.m in Sources */,
 				8EEFB55B1CAA99C7002E35A8 /* main.m in Sources */,
+				8EEFB5A41CAA99DB002E35A8 /* RFDotIndicatorView.m in Sources */,
+				8EEFB5A31CAA99DB002E35A8 /* RFDotIndicatorView+MJ.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -322,6 +382,22 @@
 				8EEFB5681CAA99C7002E35A8 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		8EEFB5901CAA99DB002E35A8 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8EEFB5911CAA99DB002E35A8 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		8EEFB5921CAA99DB002E35A8 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8EEFB5931CAA99DB002E35A8 /* Base */,
+			);
+			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
